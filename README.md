@@ -1,5 +1,12 @@
 # Resources for Burrito Related Knowledge
 
+## Contribution Guidelines
+* Open a PR or issue with a resource you like. That's it.
+* Maybe we'll need curation or a better hierarchy/ranking at some point.
+
+## Contributors
+* Just(me) for now.
+
 ## Folklore
 The inspiration for discussing monads as not being burritos
 * https://web.archive.org/web/20111009025202/http://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/
@@ -38,7 +45,7 @@ An explanation of why they are:
 ## Ruby
 * http://www.slideshare.net/tokland/functional-programming-with-ruby-9975242
 * https://www.youtube.com/watch?v=uTR__8RvgvM
-
+* https://codon.com/programming-with-nothing (writes fizzbuzz with a lamda calculus implementation from procs)
 ## Haskell
 * http://learnyouahaskell.com/
 * https://www.youtube.com/watch?v=gEoruozy3mk
