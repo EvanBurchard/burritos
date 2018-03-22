@@ -4,8 +4,6 @@
 * Open a PR or issue with a resource you like. That's it.
 * Maybe we'll need curation or a better hierarchy/ranking at some point.
 
-## Contributors
-* Just(me) for now.
 
 ## Folklore
 The inspiration for discussing monads as not being burritos
@@ -20,6 +18,9 @@ An explanation of why they are:
 ## Videos
 * https://www.youtube.com/watch?v=ZhuHCtR3xq8
 * https://www.youtube.com/watch?v=46Z7Hq4fhN0
+* https://www.youtube.com/watch?v=EKdV1IgAaFc
+* https://www.youtube.com/watch?v=GqmsQeSzMdw
+* https://www.youtube.com/watch?v=3VQ382QG-y4
 
 ## JavaScript
 * https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details
@@ -49,8 +50,15 @@ An explanation of why they are:
 
 
 ## Haskell
+* https://wiki.haskell.org/Typeclassopedia
 * http://learnyouahaskell.com/
 * https://www.youtube.com/watch?v=gEoruozy3mk
 * http://haskellbook.com/
 * http://bitemyapp.com/posts/2014-12-31-functional-education.html
 * https://www.youtube.com/watch?v=seVSlKazsNk
+
+## Articles
+* http://www.stephendiehl.com/posts/abstraction.html
+
+## Contributors
+* Just(me) for now.
