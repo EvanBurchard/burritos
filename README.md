@@ -21,6 +21,7 @@ An explanation of why they are:
 * https://www.youtube.com/watch?v=EKdV1IgAaFc
 * https://www.youtube.com/watch?v=GqmsQeSzMdw
 * https://www.youtube.com/watch?v=3VQ382QG-y4
+* https://www.youtube.com/watch?v=pAnLQ9jwN-E
 
 ## JavaScript
 * https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details
